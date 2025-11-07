@@ -24,14 +24,13 @@ He currently works at [MBS Survey Software Limited](https://www.mbs-software.co.
 
 ## ⚙️ Technical Stack
 
-<p align="center">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/Computer%20Vision-FFB300?style=for-the-badge&logo=opencv&logoColor=white" />
   <img src="https://img.shields.io/badge/Artificial%20Intelligence-6F42C1?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/Computer%20Graphics-6DB33F?style=for-the-badge&logo=unity&logoColor=white" />
-</p>
-
+  
 **Core Expertise:**
 - **Languages:** C#, Python, TypeScript/JavaScript  
 - **Frameworks & Libraries:** .NET 8, PyTorch, TensorFlow, OpenCV, Angular 20  
