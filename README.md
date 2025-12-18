@@ -59,7 +59,7 @@ Kiran developed a high-performance **AI-powered video background matting system*
 
 - 🧪 Active contributor to **open-source AI research and visual computing projects**  
 - 📄 Published works in **medical imaging** and **explainable AI** domains  
-- 🌍 Building innovative SaaS tools for **Daylight Simulation**,**Glint and Glare Simulation**, **Solar Analysis**, and **CAD integration**  
+- 🌍 Building innovative SaaS tools for **Daylight Simulation**, **Glint and Glare Simulation**, **Solar Analysis**, and **CAD integration**  
 - 🎓 MSc in Artificial Intelligence from **Brunel University London**
 
 ---
