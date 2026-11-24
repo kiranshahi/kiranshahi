@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1F9AFF&center=true&vCenter=true&width=500&lines=Kiran+Shahi;Software+Developer+%26+AI+Engineer;C%23+%7C+Computer+Vision+%7C+Graphics+%7C+Machine+Learning" alt="Kiran Shahi — Software Developer and AI Engineer" />
 </p>
 
-# 👋 Welcome to Kiran Shahi’s GitHub Profile
+# 👋 Welcome to [Kiran Shahi’s](https://kirans.me) GitHub Profile
 
 **Kiran Shahi** is a **Software Developer**, **AI Engineer**, and **Computer Vision Researcher** passionate about developing intelligent, real-time, and visually rich applications.  
 He currently works at [MBS Survey Software Limited](https://www.mbs-software.co.uk/), where he contributes to building advanced solutions that integrate **Computer Vision**, **3D Graphics**, and **Artificial Intelligence** to enhance industry workflows and visual analysis.
